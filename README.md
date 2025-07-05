@@ -1,6 +1,6 @@
-# 🌐 CEI Internship Tasks – June 2024
+# 🌐 CEI Internship Tasks – June 2025
 
-Welcome to the official repository containing all the tasks and projects I completed during my internship at **Centre for Entrepreneurship and Innovation (CEI)** from **June 16th to June 30th, 2024**.
+Welcome to the official repository containing all the tasks and projects I completed during my internship at **Centre for Entrepreneurship and Innovation (CEI)** from **June 16th to June 30th, 2025**.
 
 ## 📌 About the Internship
 
